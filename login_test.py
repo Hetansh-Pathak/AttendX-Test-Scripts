@@ -20,3 +20,4 @@ def test_empty_login():
 
 test_valid_login()
 test_empty_login()
+print("Login test execution completed.")
